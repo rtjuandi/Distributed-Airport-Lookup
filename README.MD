@@ -1,6 +1,6 @@
 ## Summary
 
-A Three-Tiered Client Server System to serve user's airport lookup using RPCgen.
+A Three-Tiered Client Server System to serve user's airport lookup using RPCgen and C++.
 
 Members: 
 - Gavin Limchayseng: KD Tree, RPC
