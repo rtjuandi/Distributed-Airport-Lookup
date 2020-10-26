@@ -25,9 +25,9 @@ Members:
 - RPC returns 5 closest airports to the `places_server` request.
 
 ## Run
-make
-./airports_server &
-./places_server localhost &
-./places_client localhost <city> <state>
+- make
+- ./airports_server &
+- ./places_server localhost &
+- ./places_client localhost <city> <state>
 
 
